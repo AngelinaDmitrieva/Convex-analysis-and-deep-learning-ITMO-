@@ -6,3 +6,5 @@
    
 3. Wind Turbine Damage Challenges
    https://www.kaggle.com/competitions/wind-turbine-damage-challenges
+4. RL
+5. Seq2seq
