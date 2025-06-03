@@ -1,0 +1,5 @@
+train: /Users/vaniadelay/Desktop/yolo_wind/dataset_yolo/train/images
+val: /Users/vaniadelay/Desktop/yolo_wind/dataset_yolo/val/images
+
+nc: 6
+names: [0, 1, 2, 3, 4, 5]
